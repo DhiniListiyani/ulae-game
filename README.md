@@ -1,2 +1,2 @@
-# ulae-game
+# ular-game
 -
